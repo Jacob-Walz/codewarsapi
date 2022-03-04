@@ -6,6 +6,7 @@ SNACKS = 'C:\\Users\\jacob\\Desktop\\cw_snacks.txt'
 LOG = 'C:\\Users\\jacob\\Desktop\\cw_log.txt'
 #d = open("C:\\Users\\jacob\\Desktop\\old_scores.txt","r+")
 # example
+# example branch code
 
 def build_list(file):
     users = []
